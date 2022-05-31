@@ -1,3 +1,7 @@
 {
-  "settingsInheritedFrom": "Gal-Doron/whitesource-config@main"
+  "settingsInheritedFrom": "Gal-Doron/whitesource-config@main",
+  "issueSettings": {
+    "issueType": "VULNERABILITY"
+  }
 }
+
